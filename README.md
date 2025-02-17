@@ -1,21 +1,15 @@
-<<<<<<< HEAD
-# Simple-payment-system
-Creating a simple payment system using SOLID principles.
-=======
-# solid
+# Simple Payment System
 
-A new Flutter project.
+This project aims to create a simple payment system using SOLID principles. The system is designed to be flexible, maintainable, and scalable.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+The Simple Payment System is a project focused on demonstrating the application of SOLID principles in software development. The system handles basic payment processing tasks and ensures code quality and maintainability.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 731b725 (Creating simple payment app using SOLID)
+- Process payments securely and efficiently
+- Support for multiple payment methods
+- User-friendly interface
+- Extensible and maintainable codebase
+- Adheres to SOLID principles
